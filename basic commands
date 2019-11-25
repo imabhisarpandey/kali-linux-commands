@@ -1,1 +1,5 @@
+mv command
 
+This command is use to move file or directory from one location to another location.
+For example there is a file named as "hacking_stuff" present in download folder and we want it to move to Desktop so we will use
+mv  /root/Downloads/hacking_stuff  /root/Desktop/hacking_stuff
